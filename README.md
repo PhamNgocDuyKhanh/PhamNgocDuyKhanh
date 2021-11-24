@@ -1,10 +1,10 @@
 <h1 align="center"> 👋 Howdy! I'm Khanh  </h1>
 
 <p align="center">
-I'm a recruiter with an intense passion for technology   
+I'm addicted to technology, CL (Continuous Learning), CI (Continuous Improvement), 
 </p>
 <p align="center"> 
-and I'm continuing on my journey
+Continuing the Journey
 </p>
 
 <div align="center">
