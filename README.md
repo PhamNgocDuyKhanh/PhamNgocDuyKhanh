@@ -1,7 +1,7 @@
 <h1 align="center"> 👋 Howdy! I'm Khanh  </h1>
 
 <p align="center">
-I'm addicted to technology, CL (Continuous Learning), CI (Continuous Improvement)...
+I got addicted to technology, CL (Continuous Learning), CI (Continuous Improvement)...
 </p>
 <p align="center"> 
 Continuing the Journey
