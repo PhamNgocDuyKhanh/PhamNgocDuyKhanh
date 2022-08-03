@@ -4,7 +4,7 @@
 I got addicted to technology, CL (Continuous Learning), CI (Continuous Improvement)...
 </p>
 <p align="center"> 
-Continuing the Journey 🛣
+Continuing my Journey 🛣
 </p>
 <p align="center"> 
 Find me at 👇
