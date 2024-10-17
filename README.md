@@ -1,10 +1,10 @@
 <h1 align="center"> 👋 Howdy! I'm Khanh  </h1>
 
 <p align="center">
-I got addicted to technology, CL (Continuous Learning), CI (Continuous Improvement)...
+Continuing my Journey 🛣 on Continuous Learning, and Continuous Improvement
 </p>
 <p align="center"> 
-Continuing my Journey 🛣
+
 </p>
 <p align="center"> 
 Find me at 👇
