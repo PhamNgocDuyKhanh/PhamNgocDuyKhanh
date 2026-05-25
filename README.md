@@ -19,3 +19,5 @@ Find me at 👇
 </div>
 
 ![](https://komarev.com/ghpvc/?username=PhamNgocDuyKhanh&color=blue&style=flat)
+![](https://komarev.com/ghpvc/?username=PhamNgocDuyKhanh&label=Profile+Views) PhamNgocDuyKhanh
+![](https://komarev.com/ghpvc/?username=PhamNgocDuyKhanh&color=green)
