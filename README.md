@@ -18,11 +18,6 @@ Find me at 👇
   [![Skype Badge](https://img.shields.io/badge/-phamngocduykhanh-00aff0?style=flat-square&logo=Skype&logoColor=white&link=https://join.skype.com/invite/iM2bQCkTJ3N8)](https://join.skype.com/invite/iM2bQCkTJ3N8)
 </div>
 
-
-<p align="center">
-  ![](https://komarev.com/ghpvc/?username=PhamNgocDuyKhanh&color=green)
-</p>
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=PhamNgocDuyKhanh&color=green" />
 </p>
