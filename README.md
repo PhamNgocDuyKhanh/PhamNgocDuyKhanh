@@ -19,8 +19,12 @@ Find me at 👇
 </div>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=PhamNgocDuyKhanh&color=green" />
   <img src="https://github-profile-trophy.vercel.app/?username=PhamNgocDuyKhanh&theme=darkhub" />
-  <img src="https://raw.githubusercontent.com/PhamNgocDuyKhanh/PhamNgocDuyKhanh/output/github-contribution-grid-snake.svg" />
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=PhamNgocDuyKhanh&color=green" />
+</p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/PhamNgocDuyKhanh/PhamNgocDuyKhanh/output/github-contribution-grid-snake.svg" />
+</p>
