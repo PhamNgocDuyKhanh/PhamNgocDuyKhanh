@@ -18,6 +18,6 @@ Find me at 👇
   [![Skype Badge](https://img.shields.io/badge/-phamngocduykhanh-00aff0?style=flat-square&logo=Skype&logoColor=white&link=https://join.skype.com/invite/iM2bQCkTJ3N8)](https://join.skype.com/invite/iM2bQCkTJ3N8)
 </div>
 
-![](https://komarev.com/ghpvc/?username=PhamNgocDuyKhanh&color=blue&style=flat)
-![](https://komarev.com/ghpvc/?username=PhamNgocDuyKhanh&label=Profile+Views) PhamNgocDuyKhanh
+
 ![](https://komarev.com/ghpvc/?username=PhamNgocDuyKhanh&color=green)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=PhamNgocDuyKhanh&show_icons=true&theme=tokyonight)
