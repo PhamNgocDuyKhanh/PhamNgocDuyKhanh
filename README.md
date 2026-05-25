@@ -19,7 +19,11 @@ Find me at 👇
 </div>
 
 
-<div align="center">
-![](https://komarev.com/ghpvc/?username=PhamNgocDuyKhanh&color=green)
-</div>
+<p align="center">
+  ![](https://komarev.com/ghpvc/?username=PhamNgocDuyKhanh&color=green)
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=PhamNgocDuyKhanh&color=green" />
+</p>
 
