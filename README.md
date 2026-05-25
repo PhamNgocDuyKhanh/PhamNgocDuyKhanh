@@ -19,5 +19,7 @@ Find me at 👇
 </div>
 
 
+<div align="center">
 ![](https://komarev.com/ghpvc/?username=PhamNgocDuyKhanh&color=green)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=PhamNgocDuyKhanh&show_icons=true&theme=tokyonight)
+</div>
+
