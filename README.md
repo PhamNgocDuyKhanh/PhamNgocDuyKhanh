@@ -19,10 +19,6 @@ Find me at 👇
 </div>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=PhamNgocDuyKhanh&theme=darkhub" />
-</p>
-
-<p align="center">
   <img src="https://komarev.com/ghpvc/?username=PhamNgocDuyKhanh&color=green" />
 </p>
 <p align="center">
