@@ -1,5 +1,6 @@
 <p align="center">
-  <img src="[paste-your-giphy-link-here.gif](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHVwdWZwcGg0MDk0eXhwdzk3cHI2ZG1xdDI5MHJqZTFnMGlqazZubCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8bkL0L9sdku3t45wfd/giphy.gif)">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHVwdWZwcGg0MDk0eXhwdzk3cHI2ZG1xdDI5MHJqZTFnMGlqazZubCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8bkL0L9sdku3t45wfd/giphy.gif" width="40%">
+</p>
 </p>
 <h1 align="center"> 👋 Howdy! I'm Khanh  </h1>
 
@@ -31,3 +32,18 @@ Find me at 👇
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=PhamNgocDuyKhanh&" alt="PhamNgocDuyKhanh" />
 </p>
+
+<div align="center">
+  <table border="0">
+    <tr>
+      <td width="50%" align="center">
+        <img src="https://github-readme-stats-pied-eight-78.vercel.app/api/top-langs/?username=PhamNgocDuyKhanh&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
+      </td>
+      <td width="50%" align="center">
+        <img src="https://github-readme-stats-pied-eight-78.vercel.app/api?username=PhamNgocDuyKhanh&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+      </td>
+    </tr>
+  </table>
+  <br/>
+  <br/>
+</div>
