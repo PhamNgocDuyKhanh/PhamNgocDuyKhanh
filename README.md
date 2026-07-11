@@ -7,6 +7,11 @@
 <p align="center">
 Continuing my Journey 🛣 on Continuous Learning, and Continuous Improvement
 </p>
+<h1 align="center"> 👋 Howdy! I'm Khanh  </h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=F7F7F7&center=true&vCenter=true&width=600&height=40&lines=Continuing+my+Journey+🛣+on+Continuous+Learning%2C;and+Continuous+Improvement">
+</p>
 <p align="center"> 
 
 </p>
