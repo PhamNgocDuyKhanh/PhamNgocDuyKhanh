@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="[paste-your-giphy-link-here.gif](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHVwdWZwcGg0MDk0eXhwdzk3cHI2ZG1xdDI5MHJqZTFnMGlqazZubCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8bkL0L9sdku3t45wfd/giphy.gif)">
+</p>
 <h1 align="center"> 👋 Howdy! I'm Khanh  </h1>
 
 <p align="center">
