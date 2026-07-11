@@ -3,15 +3,10 @@
 </p>
 </p>
 <h1 align="center"> 👋 Howdy! I'm Khanh  </h1>
-
 <p align="center">
-Continuing my Journey 🛣 on Continuous Learning, and Continuous Improvement
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&color=F7F7F7&center=true&vCenter=true&width=600&height=40&lines=%F0%9F%9B%A3+Driven+by+continuous+learning...%F0%9F%93%9A;Committed+to+continuous+improvement.%F0%9F%93%88">
 </p>
-<h1 align="center"> 👋 Howdy! I'm Khanh  </h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=F7F7F7&center=true&vCenter=true&width=600&height=40&lines=Continuing+my+Journey+🛣+on+Continuous+Learning%2C;and+Continuous+Improvement">
-</p>
 <p align="center"> 
 
 </p>
