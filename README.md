@@ -81,7 +81,7 @@ A job board portal
 <td>
 
 **[MedCheck](https://github.com/PhamNgocDuyKhanh/medcheck)** · [MedCheck app ↗](https://phamngocduykhanh.github.io/medcheck/) &nbsp; 
-A Personal Health Assistant - Scan food labels, prescriptions, and lab reports for instant, personalized AI guidance
+An AI health assistant that helps you understand food labels, prescriptions, and lab reports with personalized, easy-to-understand guidance.
 </td>
 </tr>  
 
