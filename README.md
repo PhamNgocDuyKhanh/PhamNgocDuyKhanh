@@ -47,3 +47,51 @@ Find me at 👇
   <br/>
   <br/>
 </div>
+
+## 🧑‍💻 Try My Apps
+### 🧩 Browser Extensions
+
+<table>
+<tr>
+<td width="72" align="center"><img src="https://github.com/PhamNgocDuyKhanh/SnapType/blob/main/icons/icon.svg" width="44" /></td>
+<td>
+
+**[SnapType](https://github.com/PhamNgocDuyKhanh/SnapType)** · [MS Edge Web Store ↗](https://microsoftedge.microsoft.com/addons/detail/snaptype-%E2%80%94-text-expander/gmdomkjgpeakipcokgjikaaiiclkdeej) &nbsp; 
+SnapType — Text Expander is a browser extension designed to reduce repetitive typing by turning short abbreviations into full snippets, reusable templates, and dynamically resolved text across many websites
+
+</td>
+</tr>
+</table>
+
+### 🌐 Web Apps
+
+<table>
+<tr>
+<td width="72" align="center"><img src="https://github.com/PhamNgocDuyKhanh/talent-hub/blob/main/images/alpha-icon-1.png" width="44" /></td>
+<td>
+
+**[Talent Hub]()** · [Talent Hub app ↗](https://phamngocduykhanh.github.io/talent-hub/) &nbsp; 
+A job board portal
+
+</td>
+</tr>  
+
+<tr>
+<td width="72" align="center"><img src="https://github.com/PhamNgocDuyKhanh/medcheck/blob/main/icons/favicon-icon.png" width="44" /></td>
+<td>
+
+**[MedCheck](https://github.com/PhamNgocDuyKhanh/medcheck)** · [MedCheck app ↗](https://phamngocduykhanh.github.io/medcheck/) &nbsp; 
+A Personal Health Assistant - Scan food labels, prescriptions, and lab reports for instant, personalized AI guidance
+</td>
+</tr>  
+
+<tr>
+<td width="72" align="center"><img src="https://github.com/PhamNgocDuyKhanh/MeetMind/blob/main/assets/favicon.png" width="44" /></td>
+<td>
+
+**[MeetMind](https://github.com/PhamNgocDuyKhanh/MeetMind)** · [MeetMind app ↗](https://phamngocduykhanh.github.io/MeetMind) &nbsp; 
+100% client-side meeting assistant: live transcription, AI-generated summaries, and transcript-grounded chat
+
+</td>
+</tr>
+</table>
