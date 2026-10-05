@@ -66,9 +66,7 @@ KAYSTEE — Text Expander is a browser extension designed to reduce repetitive t
 ### 🌐 Web Apps
 
 <table>
-<tr>
-<td width="72" align="center"><img src="https://github.com/PhamNgocDuyKhanh/talent-hub/blob/main/images/alpha-icon-1.png" width="44" /></td>
-<td>
+
 
 <tr>
 <td width="72" align="center"><img src="https://github.com/PhamNgocDuyKhanh/medcheck/blob/main/icons/favicon-icon.png" width="44" /></td>
@@ -79,8 +77,5 @@ An AI health assistant that helps you understand food labels, prescriptions, and
 </td>
 </tr>  
 
-<tr>
-<td width="72" align="center"><img src="https://github.com/PhamNgocDuyKhanh/MeetMind/blob/main/assets/favicon.png" width="44" /></td>
-<td>
 
 </table>
