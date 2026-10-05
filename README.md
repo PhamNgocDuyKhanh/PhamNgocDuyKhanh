@@ -56,8 +56,8 @@ Find me at 👇
 <td width="72" align="center"><img src="https://github.com/PhamNgocDuyKhanh/SnapType/blob/main/icons/icon.svg" width="44" /></td>
 <td>
 
-**[SnapType](https://github.com/PhamNgocDuyKhanh/SnapType)** · [MS Edge Web Store ↗](https://microsoftedge.microsoft.com/addons/detail/snaptype-%E2%80%94-text-expander/gmdomkjgpeakipcokgjikaaiiclkdeej) &nbsp; 
-SnapType — Text Expander is a browser extension designed to reduce repetitive typing by turning short abbreviations into full snippets, reusable templates, and dynamically resolved text across many websites
+**[KAYSTEE](https://github.com/PhamNgocDuyKhanh/kaystee.app/)** · [MS Edge Web Store ↗](https://microsoftedge.microsoft.com/addons/detail/snaptype-%E2%80%94-text-expander/gmdomkjgpeakipcokgjikaaiiclkdeej) &nbsp; 
+KAYSTEE — Text Expander is a browser extension designed to reduce repetitive typing by turning short abbreviations into full snippets, reusable templates, and dynamically resolved text across many websites
 
 </td>
 </tr>
