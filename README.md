@@ -70,12 +70,6 @@ KAYSTEE — Text Expander is a browser extension designed to reduce repetitive t
 <td width="72" align="center"><img src="https://github.com/PhamNgocDuyKhanh/talent-hub/blob/main/images/alpha-icon-1.png" width="44" /></td>
 <td>
 
-**[Talent Hub]()** · [Talent Hub app ↗](https://phamngocduykhanh.github.io/talent-hub/) &nbsp; 
-A job board portal
-
-</td>
-</tr>  
-
 <tr>
 <td width="72" align="center"><img src="https://github.com/PhamNgocDuyKhanh/medcheck/blob/main/icons/favicon-icon.png" width="44" /></td>
 <td>
@@ -89,9 +83,4 @@ An AI health assistant that helps you understand food labels, prescriptions, and
 <td width="72" align="center"><img src="https://github.com/PhamNgocDuyKhanh/MeetMind/blob/main/assets/favicon.png" width="44" /></td>
 <td>
 
-**[MeetMind](https://github.com/PhamNgocDuyKhanh/MeetMind)** · [MeetMind app ↗](https://phamngocduykhanh.github.io/MeetMind) &nbsp; 
-100% client-side meeting assistant: live transcription, AI-generated summaries, and transcript-grounded chat
-
-</td>
-</tr>
 </table>
